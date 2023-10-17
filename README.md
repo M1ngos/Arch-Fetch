@@ -17,6 +17,9 @@
 archfetch
 ```
 
+![alt text](https://github.com/M1ngos/Arch-Fetch/blob/master/archfetch.png?raw=true)
+
+
 ## Author
 
 👤 **M1ngos**
