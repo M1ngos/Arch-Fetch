@@ -40,4 +40,4 @@ Copyright © 2023 [M1ngos](https://github.com/M1ngos).<br />
 This project is [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
